@@ -75,7 +75,7 @@ Zendesk with nexmo SMS app will allow Zendesk users to send SMS to the requester
 
 5.  Select **Created** from the second drop down as shown in the image below:
 
-    <img src="https://github.com/AdvaiyaLabs/Zendesk-with-Nexmo-SMS/blob/master/docs/image11.png" width=600>
+    <img src="https://github.com/AdvaiyaLabs/Zendesk-with-Nexmo-SMS/blob/master/docs/image11.png" width=400>
 
 6.  Now in **Perform these actions** section**,** choose **Notifications: Notify target** from first drop down and **Nexmo SMSs** from the second drop down as shown in the image below:
 
