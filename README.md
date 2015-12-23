@@ -1,8 +1,6 @@
 # Zendesk with Nexmo SMS
 <img src="https://github.com/AdvaiyaLabs/Zendesk-with-Nexmo-SMS/blob/master/docs/image1.png" width=200>
 
-<img src="https://github.com/AdvaiyaLabs/Zendesk-with-Nexmo-SMS/blob/master/docs/image2.png" width=200>
-
 ## Introduction
 
 Zendesk with nexmo SMS app will allow Zendesk users to send SMS to the requester on various stages/events of their ticket on Zendesk. Using this app, Zendesk’s users can configure the event as well as SMS text.
@@ -34,19 +32,19 @@ Zendesk with nexmo SMS app will allow Zendesk users to send SMS to the requester
 
 ## Steps to install the Zendesk with nexmo SMS
 
-1.  <span id="_Toc432770622" class="anchor"></span>Login into the Zendesk portal with admin credentials.
+1.  Login into the Zendesk portal with admin credentials.
 
 2.  On dashboard, click on the gear icon in bottom left and select **Manage** under the “APPS” heading.
 
-    <img src="https://github.com/AdvaiyaLabs/Zendesk-with-Nexmo-SMS/blob/master/docs/image3.png">
+    <img src="https://github.com/AdvaiyaLabs/Zendesk-with-Nexmo-SMS/blob/master/docs/image3.png" width=600>
 
 3.  Click on **Upload App**.
 
-    <img src="https://github.com/AdvaiyaLabs/Zendesk-with-Nexmo-SMS/blob/master/docs/image4.png">
+    <img src="https://github.com/AdvaiyaLabs/Zendesk-with-Nexmo-SMS/blob/master/docs/image4.png" width=600>
 
 4.  Give this installation a name and choose the zip file and click on **Upload**.
 
-    <img src="https://github.com/AdvaiyaLabs/Zendesk-with-Nexmo-SMS/blob/master/docs/image5.png">
+    <img src="https://github.com/AdvaiyaLabs/Zendesk-with-Nexmo-SMS/blob/master/docs/image5.png" width=600>
 
 5.  A pop up will appear with **T&C**, click on upload.
 
@@ -56,7 +54,6 @@ Zendesk with nexmo SMS app will allow Zendesk users to send SMS to the requester
 
 7.  App will get installed and listed under **Manage Apps section.**
 
-    <img src="https://github.com/AdvaiyaLabs/Zendesk-with-Nexmo-SMS/blob/master/docs/image7.png">
 
 ## Steps to use the Zendesk with nexmo SMS
 
@@ -64,43 +61,43 @@ Zendesk with nexmo SMS app will allow Zendesk users to send SMS to the requester
 
 2.  Click on **Triggers** in side menu under **BUSINESS RULES** heading.
 
-    <img src="https://github.com/AdvaiyaLabs/Zendesk-with-Nexmo-SMS/blob/master/docs/image8.png">
+    <img src="https://github.com/AdvaiyaLabs/Zendesk-with-Nexmo-SMS/blob/master/docs/image8.png" height=600>
 
 3.  Click on **add trigger**
 
-    <img src="https://github.com/AdvaiyaLabs/Zendesk-with-Nexmo-SMS/blob/master/docs/image9.png">
+    <img src="https://github.com/AdvaiyaLabs/Zendesk-with-Nexmo-SMS/blob/master/docs/image9.png" height=600>
 
 4.  You can create a trigger for any event that is mentioned here. For example let us create a trigger when a ticket is created.
 
     Select “Ticket: is” from the drop down.
 
-    <img src="https://github.com/AdvaiyaLabs/Zendesk-with-Nexmo-SMS/blob/master/docs/image10.png">
+    <img src="https://github.com/AdvaiyaLabs/Zendesk-with-Nexmo-SMS/blob/master/docs/image10.png" height=600>
 
 5.  Select **Created** from the second drop down as shown in the image below:
 
-    <img src="https://github.com/AdvaiyaLabs/Zendesk-with-Nexmo-SMS/blob/master/docs/image11.png">
+    <img src="https://github.com/AdvaiyaLabs/Zendesk-with-Nexmo-SMS/blob/master/docs/image11.png" height=600>
 
 6.  Now in **Perform these actions** section**,** choose **Notifications: Notify target** from first drop down and **Nexmo SMSs** from the second drop down as shown in the image below:
 
-    <img src="https://github.com/AdvaiyaLabs/Zendesk-with-Nexmo-SMS/blob/master/docs/image12.png">
+    <img src="https://github.com/AdvaiyaLabs/Zendesk-with-Nexmo-SMS/blob/master/docs/image12.png" height=600>
 
 7.  Type the message you want to send. Use placeholder wherever you need.
 
-    <img src="https://github.com/AdvaiyaLabs/Zendesk-with-Nexmo-SMS/blob/master/docs/image13.png">
+    <img src="https://github.com/AdvaiyaLabs/Zendesk-with-Nexmo-SMS/blob/master/docs/image13.png" height=600>
 
 8.  **If you want to see all the available placeholders, click on View available placeholders** button.
 
-    <img src="https://github.com/AdvaiyaLabs/Zendesk-with-Nexmo-SMS/blob/master/docs/image14.png">
+    <img src="https://github.com/AdvaiyaLabs/Zendesk-with-Nexmo-SMS/blob/master/docs/image14.png" height=600>
 
 9.  When you are done, click on **Create Trigger** from bottom right. Your trigger is created and will be shown in active triggers list.
 
-    <img src="https://github.com/AdvaiyaLabs/Zendesk-with-Nexmo-SMS/blob/master/docs/image15.png">
+    <img src="https://github.com/AdvaiyaLabs/Zendesk-with-Nexmo-SMS/blob/master/docs/image15.png" height=600>
 
 10. Now when you create a new ticket the SMS will be fired on requestor phone number.
 
 11. You can create ticket by clicking **Add** from the top menu and then on ticket and provide relevant details. Make sure the requester has saved their phone number in profile.
 
-    <img src="https://github.com/AdvaiyaLabs/Zendesk-with-Nexmo-SMS/blob/master/docs/image16.png">
+    <img src="https://github.com/AdvaiyaLabs/Zendesk-with-Nexmo-SMS/blob/master/docs/image16.png" height=600>
 
 ## Appendix
 
@@ -112,4 +109,4 @@ Zendesk with nexmo SMS app will allow Zendesk users to send SMS to the requester
 
 -   Key and Secret will display in the top bar as shown in the below image:
 
-> <img src="https://github.com/AdvaiyaLabs/Zendesk-with-Nexmo-SMS/blob/master/docs/image17.png">
+    <img src="https://github.com/AdvaiyaLabs/Zendesk-with-Nexmo-SMS/blob/master/docs/image17.png">
