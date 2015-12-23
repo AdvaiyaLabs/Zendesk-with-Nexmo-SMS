@@ -18,7 +18,7 @@ Zendesk with [Nexmo SMS](https://nexmo.com/sms) app will allow Zendesk users to 
 
 -   Zendesk admin credentials
 
--   This app requires Nexmo subscription and corresponding Nexmo API keys (Keys and Secret). To access the API keys, see appendix section.
+-   This app requires [Nexmo](https://nexmo.com/) subscription and corresponding Nexmo API keys (Keys and Secret). To access the API keys, see appendix section.
 
 -   To configure this app you need internet connectivity.
 
@@ -30,7 +30,7 @@ Zendesk with [Nexmo SMS](https://nexmo.com/sms) app will allow Zendesk users to 
 
 -   **Enable and disable** SMS functionality
 
-## Steps to install the Zendesk with [Nexmo SMS](https://nexmo.com/sms)
+## Steps to install the Zendesk with Nexmo SMS
 
 1.  Login into the Zendesk portal with admin credentials.
 
@@ -55,7 +55,7 @@ Zendesk with [Nexmo SMS](https://nexmo.com/sms) app will allow Zendesk users to 
 7.  App will get installed and listed under **Manage Apps section.**
 
 
-## Steps to use the Zendesk with nexmo SMS
+## Steps to use the Zendesk with Nexmo SMS
 
 1.  Login into the Zendesk portal with admin credentials.
 
@@ -65,7 +65,7 @@ Zendesk with [Nexmo SMS](https://nexmo.com/sms) app will allow Zendesk users to 
 
 3.  Click on **add trigger**
 
-    <img src="https://github.com/AdvaiyaLabs/Zendesk-with-Nexmo-SMS/blob/master/docs/image9.png" width=400>
+    <img src="https://github.com/AdvaiyaLabs/Zendesk-with-Nexmo-SMS/blob/master/docs/image9.png" width=600>
 
 4.  You can create a trigger for any event that is mentioned here. For example let us create a trigger when a ticket is created.
 
