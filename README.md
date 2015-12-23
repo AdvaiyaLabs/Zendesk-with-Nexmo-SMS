@@ -1,7 +1,7 @@
 # Zendesk with Nexmo SMS
-![](./media/image1.png)
+<img src="https://github.com/AdvaiyaLabs/Zendesk-with-Nexmo-SMS/blob/master/docs/image1.png" width=200>
 
-![](./media/image2.png)
+<img src="https://github.com/AdvaiyaLabs/Zendesk-with-Nexmo-SMS/blob/master/docs/image2.png" width=200>
 
 ## Introduction
 
@@ -38,25 +38,25 @@ Zendesk with nexmo SMS app will allow Zendesk users to send SMS to the requester
 
 2.  On dashboard, click on the gear icon in bottom left and select **Manage** under the “APPS” heading.
 
-    ![](./media/image3.png)
+    <img src="https://github.com/AdvaiyaLabs/Zendesk-with-Nexmo-SMS/blob/master/docs/image3.png">
 
 3.  Click on **Upload App**.
 
-    ![](./media/image4.png)
+    <img src="https://github.com/AdvaiyaLabs/Zendesk-with-Nexmo-SMS/blob/master/docs/image4.png">
 
 4.  Give this installation a name and choose the zip file and click on **Upload**.
 
-    ![](./media/image5.png)
+    <img src="https://github.com/AdvaiyaLabs/Zendesk-with-Nexmo-SMS/blob/master/docs/image5.png">
 
 5.  A pop up will appear with **T&C**, click on upload.
 
 6.  Provide Nexmo API Key, Secret, From Number and click on **Install**.
 
-    ![](./media/image6.png)
+    <img src="https://github.com/AdvaiyaLabs/Zendesk-with-Nexmo-SMS/blob/master/docs/image6.png">
 
 7.  App will get installed and listed under **Manage Apps section.**
 
-    ![](./media/image7.png)
+    <img src="https://github.com/AdvaiyaLabs/Zendesk-with-Nexmo-SMS/blob/master/docs/image7.png">
 
 ## Steps to use the Zendesk with nexmo SMS
 
@@ -64,43 +64,43 @@ Zendesk with nexmo SMS app will allow Zendesk users to send SMS to the requester
 
 2.  Click on **Triggers** in side menu under **BUSINESS RULES** heading.
 
-    ![](./media/image8.png)
+    <img src="https://github.com/AdvaiyaLabs/Zendesk-with-Nexmo-SMS/blob/master/docs/image8.png">
 
 3.  Click on **add trigger**
 
-    ![](./media/image9.png)
+    <img src="https://github.com/AdvaiyaLabs/Zendesk-with-Nexmo-SMS/blob/master/docs/image9.png">
 
 4.  You can create a trigger for any event that is mentioned here. For example let us create a trigger when a ticket is created.
 
     Select “Ticket: is” from the drop down.
 
-    ![](./media/image10.png)
+    <img src="https://github.com/AdvaiyaLabs/Zendesk-with-Nexmo-SMS/blob/master/docs/image10.png">
 
 5.  Select **Created** from the second drop down as shown in the image below:
 
-    ![](./media/image11.png)
+    <img src="https://github.com/AdvaiyaLabs/Zendesk-with-Nexmo-SMS/blob/master/docs/image11.png">
 
 6.  Now in **Perform these actions** section**,** choose **Notifications: Notify target** from first drop down and **Nexmo SMSs** from the second drop down as shown in the image below:
 
-    ![](./media/image12.png)
+    <img src="https://github.com/AdvaiyaLabs/Zendesk-with-Nexmo-SMS/blob/master/docs/image12.png">
 
 7.  Type the message you want to send. Use placeholder wherever you need.
 
-    ![](./media/image13.png)
+    <img src="https://github.com/AdvaiyaLabs/Zendesk-with-Nexmo-SMS/blob/master/docs/image13.png">
 
 8.  **If you want to see all the available placeholders, click on View available placeholders** button.
 
-    ![](./media/image14.png)
+    <img src="https://github.com/AdvaiyaLabs/Zendesk-with-Nexmo-SMS/blob/master/docs/image14.png">
 
 9.  When you are done, click on **Create Trigger** from bottom right. Your trigger is created and will be shown in active triggers list.
 
-    ![](./media/image15.png)
+    <img src="https://github.com/AdvaiyaLabs/Zendesk-with-Nexmo-SMS/blob/master/docs/image15.png">
 
 10. Now when you create a new ticket the SMS will be fired on requestor phone number.
 
 11. You can create ticket by clicking **Add** from the top menu and then on ticket and provide relevant details. Make sure the requester has saved their phone number in profile.
 
-    ![](./media/image16.png)
+    <img src="https://github.com/AdvaiyaLabs/Zendesk-with-Nexmo-SMS/blob/master/docs/image16.png">
 
 ## Appendix
 
@@ -112,4 +112,4 @@ Zendesk with nexmo SMS app will allow Zendesk users to send SMS to the requester
 
 -   Key and Secret will display in the top bar as shown in the below image:
 
-> ![](./media/image17.png)
+> <img src="https://github.com/AdvaiyaLabs/Zendesk-with-Nexmo-SMS/blob/master/docs/image17.png">
