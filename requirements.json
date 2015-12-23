@@ -1,0 +1,11 @@
+{
+  "targets": {
+	"send_nexmo_sms": {
+      "title": "Nexmo SMSs",
+      "type": "url_target",
+      "active": true,
+      "target_url": "http://rest.nexmo.com/sms/xml?api_key={{setting.api_key}}&api_secret={{setting.api_secret}}&from={{setting.from_number}}&to={{ticket.requester.phone}}",
+	  "attribute": "text"
+    }
+  }
+}

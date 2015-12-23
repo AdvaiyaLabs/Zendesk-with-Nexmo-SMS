@@ -1,0 +1,33 @@
+{
+  "name": "Zendesk with Nexmo SMS",
+  "author": {
+    "name": "Zendesk with Nexmo SMS",
+    "email": "support@nexmo.com",
+    "url": ""
+  },
+  "defaultLocale": "en",
+  "private": true,
+  "version": "1.0",
+  "requirementsOnly": true,
+  "parameters": [
+  {
+    "name": "api_key",
+    "type": "text",
+    "required": true,
+    "secure": false
+  },
+
+  {
+    "name": "api_secret",
+    "type": "text",
+    "required": true,
+    "secure": true
+  },
+  {
+    "name": "from_number",
+    "type": "text",
+    "required": true,
+    "secure": true
+  }
+ ]
+}
