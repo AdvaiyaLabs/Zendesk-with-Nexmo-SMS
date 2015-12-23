@@ -3,7 +3,7 @@
 
 ## Introduction
 
-Zendesk with nexmo SMS app will allow Zendesk users to send SMS to the requester on various stages/events of their ticket on Zendesk. Using this app, Zendesk’s users can configure the event as well as SMS text.
+Zendesk with [Nexmo SMS](https://nexmo.com/sms) app will allow Zendesk users to send SMS to the requester on various stages/events of their ticket on Zendesk. Using this app, Zendesk’s users can configure the event as well as SMS text.
 
 ## Use case
 
@@ -30,7 +30,7 @@ Zendesk with nexmo SMS app will allow Zendesk users to send SMS to the requester
 
 -   **Enable and disable** SMS functionality
 
-## Steps to install the Zendesk with nexmo SMS
+## Steps to install the Zendesk with [Nexmo SMS](https://nexmo.com/sms)
 
 1.  Login into the Zendesk portal with admin credentials.
 
@@ -97,7 +97,7 @@ Zendesk with nexmo SMS app will allow Zendesk users to send SMS to the requester
 
 11. You can create ticket by clicking **Add** from the top menu and then on ticket and provide relevant details. Make sure the requester has saved their phone number in profile.
 
-    <img src="https://github.com/AdvaiyaLabs/Zendesk-with-Nexmo-SMS/blob/master/docs/image16.png" height=600>
+    <img src="https://github.com/AdvaiyaLabs/Zendesk-with-Nexmo-SMS/blob/master/docs/image16.png" height=200>
 
 ## Appendix
 
