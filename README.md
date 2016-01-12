@@ -36,7 +36,7 @@ Zendesk with [Nexmo SMS](https://nexmo.com/sms) app will allow Zendesk users to 
 
 2.  Click on **Raw** as shown, app's zip file will get downloaded.
 
-	<img src="https://github.com/AdvaiyaLabs/Zendesk-with-Nexmo-SMS/tree/master/docs/image19.png" width="300">
+	<img src="https://github.com/AdvaiyaLabs/Zendesk-with-Nexmo-SMS/blob/master/docs/image19.png" width="300">
 
 3.  Login into the Zendesk portal with admin credentials.
 
