@@ -32,8 +32,11 @@ Zendesk with [Nexmo SMS](https://nexmo.com/sms) app will allow Zendesk users to 
 
 ## Steps to install the Zendesk with Nexmo SMS
 
-1.  Login into the Zendesk portal with admin credentials.
-
+1.  Visit the target Git repository using the [ URL ] (https://github.com/AdvaiyaLabs/Zendesk-with-Nexmo-SMS/blob/master/package/zendesk_with_nexmo_sms.zip).
+	Click on **Raw** as shown, app's zip file will get downloaded.
+	
+	<img src="https://github.com/AdvaiyaLabs/Zendesk-with-Nexmo-SMS/blob/master/docs/image19.png" width="300">
+	
 2.  On dashboard, click on the gear icon in bottom left and select **Manage** under the “APPS” heading.
 
     <img src="https://github.com/AdvaiyaLabs/Zendesk-with-Nexmo-SMS/blob/master/docs/image3.png" width=600>
