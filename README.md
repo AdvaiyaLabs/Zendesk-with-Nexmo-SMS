@@ -32,27 +32,33 @@ Zendesk with [Nexmo SMS](https://nexmo.com/sms) app will allow Zendesk users to 
 
 ## Steps to install the Zendesk with Nexmo SMS
 
-1.  Login into the Zendesk portal with admin credentials.
+1.  Visit the target Git repository using the [ URL ] (https://github.com/AdvaiyaLabs/Zendesk-with-Nexmo-SMS/blob/master/package/zendesk_with_nexmo_sms.zip).
 
-2.  On dashboard, click on the gear icon in bottom left and select **Manage** under the “APPS” heading.
+2.  Click on **Raw** as shown, app's zip file will get downloaded.
+
+	<img src="https://github.com/AdvaiyaLabs/Zendesk-with-Nexmo-SMS/tree/master/docs/image19.png" width="300">
+
+3.  Login into the Zendesk portal with admin credentials.
+
+4.  On dashboard, click on the gear icon in bottom left and select **Manage** under the “APPS” heading.
 
     <img src="https://github.com/AdvaiyaLabs/Zendesk-with-Nexmo-SMS/blob/master/docs/image3.png" width=600>
 
-3.  Click on **Upload App**.
+5.  Click on **Upload App**.
 
     <img src="https://github.com/AdvaiyaLabs/Zendesk-with-Nexmo-SMS/blob/master/docs/image4.png" width=600>
 
-4.  Give this installation a name and choose the zip file and click on **Upload**.
+6.  Give this installation a name and choose the zip file and click on **Upload**.
 
     <img src="https://github.com/AdvaiyaLabs/Zendesk-with-Nexmo-SMS/blob/master/docs/image5.png" width=600>
 
-5.  A pop up will appear with **T&C**, click on upload.
+7.  A pop up will appear with **T&C**, click on upload.
 
-6.  Provide Nexmo API Key, Secret, From Number and click on **Install**.
+8.  Provide Nexmo API Key, Secret, From Number and click on **Install**.
 
     <img src="https://github.com/AdvaiyaLabs/Zendesk-with-Nexmo-SMS/blob/master/docs/image6.png">
 
-7.  App will get installed and listed under **Manage Apps section.**
+9.  App will get installed and listed under **Manage Apps section.**
 
 
 ## Steps to use the Zendesk with Nexmo SMS
