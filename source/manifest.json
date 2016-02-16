@@ -21,13 +21,13 @@
     "name": "api_secret",
     "type": "text",
     "required": true,
-    "secure": true
+    "secure": false
   },
   {
     "name": "from_number",
     "type": "text",
     "required": true,
-    "secure": true
+    "secure": false
   }
  ]
 }
